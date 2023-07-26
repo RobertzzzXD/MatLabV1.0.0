@@ -17,7 +17,8 @@ MinVal = min(y) ;
 [MinVal,Index] = min(y) 
 
 x_MinVal = x(Index)
-disp("INDEX OF THE MIN VALUE OF Y, AND INDEX OF X")
+
+disp("CHECK")
 
 
 
