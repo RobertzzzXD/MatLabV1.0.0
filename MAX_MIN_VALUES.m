@@ -18,7 +18,7 @@ MinVal = min(y) ;
 
 x_MinVal = x(Index)
 
-disp("CHECK")
+disp("CHECK 2")
 
 
 
